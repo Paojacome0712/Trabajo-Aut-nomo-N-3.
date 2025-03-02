@@ -31,6 +31,14 @@ Piedra gana a Tijera (la piedra rompe las tijeras).
 Tijera gana a Papel (las tijeras cortan el papel).
 Papel gana a Piedra (el papel envuelve la piedra).
 Si las opciones son iguales, se considera un empate.
+Tipo de software utilizado:
+El tipo de software que se a utilizado para la elaboración del juego piedra papel o tijera es el siguiente: PYTHON SPYDER debido a que es un software de fácil acceso, utilización y más que todo fácil  de navegar, a continuación mostraremos la formulas que se ha utilizado para la elaboración del juego 
+Else: se usa en combinación de if o try. Define un bloque de código que se ejecuta si la función if es falsa o si no ocurre una excepción en try
+Def: Se usa para definir funciones en Python.
+Return: Se usa dentro de una función para devolver una función
+If: Evalúa una condición y ejecuta un bloque de código si es verdadera
+Elif: se usa después de un if para evaluar otra condición si la anterior es falsa 
+While: se usa para ejecutar un bloque de código repetidamente mientras una condición sea verdadera
 
 Adjunto el link del enlace del repositorio.
 [Repositorio Githup](http://gh repo clone Paojacome0712/Trabajo-Aut-nomo-N-3. "Repositorio Githup")
